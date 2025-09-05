@@ -1,0 +1,9 @@
+body {
+    background: #111111;
+    font-family: 'Figtree', sans-serif, monospace;
+}
+
+#app {
+    max-width: 1000px;
+    margin: auto;
+}
