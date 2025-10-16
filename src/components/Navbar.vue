@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-between items-center p-7">
+  <div class="flex justify-between items-center p-5">
     <div class="">
       <a
         href=""
@@ -8,7 +8,7 @@
        Aldrin Pelayo
       </a>
     </div>
-    <div class="flex gap-1">
+    <div class="flex gap-2">
       <a
         href="https://github.com/aldrinpelayo"
         target="_blank"
