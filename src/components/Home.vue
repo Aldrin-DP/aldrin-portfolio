@@ -1,5 +1,9 @@
 <template>
     <section id="home">
+        <div class="px-5 flex items-center gap-1 sm:w-10/12 md:w-8/12 m-auto">
+            <div class="w-2 h-2 bg-green-500 rounded-full"></div>
+            <span class="text-light-primary text-sm">Online</span>
+        </div>
         <div class="flex items-center gap-2 p-5 w-full sm:w-10/12 md:w-8/12 m-auto">
             <div class="w-full">
                 <h1 class="text-3xl font-bold text-light-primary sm:text-[47px]">

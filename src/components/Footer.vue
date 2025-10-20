@@ -4,7 +4,7 @@
             &copy; Aldrin Pelayo 2025 
             <div class="flex gap-2">
                 <a href="">Github</a>
-                <a href="">Linked In</a>
+                <a href="">LinkedIn</a>
             </div>
         </div>
     </footer>
