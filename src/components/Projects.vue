@@ -15,7 +15,7 @@
                     <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">API</span>
                     </div>
                     <div class="flex justify-end mt-auto">
-                    <a class="px-5 py-1 text-light-secondary hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
+                    <a class="px-5 py-1 text-light-secondary cursor-pointer hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
                         <span class="mr-2">GitHub Repo</span>
                         <font-awesome-icon :icon="['fas', 'arrow-right-long']" />
                     </a>
@@ -33,7 +33,7 @@
                     <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Tailwind</span>
                     </div>
                     <div class="flex justify-end mt-auto">
-                    <a class="px-5 py-1 text-light-secondary hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
+                    <a class="px-5 py-1 text-light-secondary cursor-pointer hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
                         <span class="mr-2">GitHub Repo</span>
                         <font-awesome-icon :icon="['fas', 'arrow-right-long']" />
                     </a>
@@ -54,7 +54,7 @@
                     <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">API</span>
                     </div>
                     <div class="flex justify-end mt-auto">
-                    <a class="px-5 py-1 text-light-secondary hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
+                    <a class="px-5 py-1 text-light-secondary cursor-pointer hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
                         <span class="mr-2">GitHub Repo</span>
                         <font-awesome-icon :icon="['fas', 'arrow-right-long']" />
                     </a>
@@ -72,7 +72,7 @@
                     <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Tailwind</span>
                     </div>
                     <div class="flex justify-end mt-auto">
-                    <a class="px-5 py-1 text-light-secondary hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
+                    <a class="px-5 py-1 text-light-secondary cursor-pointer hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
                         <span class="mr-2">GitHub Repo</span>
                         <font-awesome-icon :icon="['fas', 'arrow-right-long']" />
                     </a>
