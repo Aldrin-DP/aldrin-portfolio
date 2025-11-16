@@ -32,7 +32,7 @@
 export default {
     data() {
         return {
-            path: '/public/Aldrin-Resume.pdf'
+            path: '/Aldrin-Resume.pdf'
         }
     },
     methods: {
