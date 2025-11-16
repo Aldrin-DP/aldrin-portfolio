@@ -13,7 +13,9 @@
                 <p class="text-light-secondary mt-2 sm:mt-4">
                     I am passionate about web development, specializing in Laravel and modern web technologies.
                 </p>
-                <button class="px-6 py-1 text-light-primary bg-transparent border border-white/20 rounded-full mt-3 sm:mt-4 hover:border-gray-300 transition-colors duration-300">
+                <button
+                    @click="openResume" 
+                    class="px-6 py-1 text-light-primary bg-transparent border border-white/20 rounded-full mt-3 sm:mt-4 hover:border-gray-300 transition-colors duration-300">
                     <span class="mr-2">Resume</span> <font-awesome-icon :icon="['fas', 'arrow-right-long']" />
                 </button>
             </div>
@@ -28,6 +30,15 @@
 
 <script>
 export default {
-
+    data() {
+        return {
+            path: '/public/Aldrin-Resume.pdf'
+        }
+    },
+    methods: {
+        openResume() {
+            window.open(this.path, '_blank');
+        }
+    }
 }
 </script>

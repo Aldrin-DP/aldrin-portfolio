@@ -10,7 +10,7 @@
     </div>
     <div class="flex gap-2">
       <a
-        href="https://github.com/aldrinpelayo"
+        href="https://github.com/Aldrin-DP"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="GitHub Profile"
@@ -28,7 +28,8 @@
         <font-awesome-icon :icon="['fab', 'linkedin']" />
       </a>
       <a
-        href="https://mail.google.com/mail/?view=cm&fs=1&to=aldrindatupelayo@gmail.com"
+        href="mailto:aldrinpelayo.adp@gmail.com"
+        target="_blank"
         aria-label="Email Contact"
         class="text-light-primary hover:text-light-secondary transition-colors duration-200"
       >
