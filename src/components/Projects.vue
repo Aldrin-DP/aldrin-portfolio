@@ -15,20 +15,14 @@
                         <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">API</span>
                     </div>
                     <div class="flex justify-end mt-auto">
-<<<<<<< HEAD
                         <a 
                             :href="links.mangarider" 
                             target="_blank"
+                            rel="noopener noreferrer"
                             class="cursor-pointer px-5 py-1 text-light-secondary hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
                             <span class="mr-2">GitHub Repo</span>
                             <font-awesome-icon :icon="['fas', 'arrow-right-long']" />
                         </a>
-=======
-                    <a class="px-5 py-1 text-light-secondary cursor-pointer hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
-                        <span class="mr-2">GitHub Repo</span>
-                        <font-awesome-icon :icon="['fas', 'arrow-right-long']" />
-                    </a>
->>>>>>> 8491a3edb235370b6726a509fd3f85677162c4ba
                     </div>
                 </div>
 
@@ -43,20 +37,14 @@
                         <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Tailwind</span>
                     </div>
                     <div class="flex justify-end mt-auto">
-<<<<<<< HEAD
                         <a 
                             :href="links.radish"
                             target="_blank"
+                            rel="noopener noreferrer"
                             class="px-5 py-1 text-light-secondary hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
                             <span class="mr-2">GitHub Repo</span>
                             <font-awesome-icon :icon="['fas', 'arrow-right-long']" />
                         </a>
-=======
-                    <a class="px-5 py-1 text-light-secondary cursor-pointer hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
-                        <span class="mr-2">GitHub Repo</span>
-                        <font-awesome-icon :icon="['fas', 'arrow-right-long']" />
-                    </a>
->>>>>>> 8491a3edb235370b6726a509fd3f85677162c4ba
                     </div>
                 </div>
             </div>
@@ -74,20 +62,14 @@
                         <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">API</span>
                     </div>
                     <div class="flex justify-end mt-auto">
-<<<<<<< HEAD
                         <a 
                             :href="links.thought"
                             target="_blank"
+                            rel="noopener noreferrer"
                             class="px-5 py-1 text-light-secondary hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
                             <span class="mr-2">GitHub Repo</span>
                             <font-awesome-icon :icon="['fas', 'arrow-right-long']" />
                         </a>
-=======
-                    <a class="px-5 py-1 text-light-secondary cursor-pointer hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
-                        <span class="mr-2">GitHub Repo</span>
-                        <font-awesome-icon :icon="['fas', 'arrow-right-long']" />
-                    </a>
->>>>>>> 8491a3edb235370b6726a509fd3f85677162c4ba
                     </div>
                 </div>
 
@@ -102,17 +84,14 @@
                         <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Tailwind</span>
                     </div>
                     <div class="flex justify-end mt-auto">
-<<<<<<< HEAD
-                    <a 
-                        :href="links.shopone"
-                        target="_blank"
-                        class="px-5 py-1 text-light-secondary hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
-=======
-                    <a class="px-5 py-1 text-light-secondary cursor-pointer hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
->>>>>>> 8491a3edb235370b6726a509fd3f85677162c4ba
-                        <span class="mr-2">GitHub Repo</span>
-                        <font-awesome-icon :icon="['fas', 'arrow-right-long']" />
-                    </a>
+                        <a 
+                            :href="links.shopone"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            class="px-5 py-1 text-light-secondary hover:text-light-primary bg-transparent border border-white/10 rounded-full hover:border-gray-300 transition-colors duration-300">
+                            <span class="mr-2">GitHub Repo</span>
+                            <font-awesome-icon :icon="['fas', 'arrow-right-long']" />
+                        </a>
                     </div>
                 </div>
             </div>
