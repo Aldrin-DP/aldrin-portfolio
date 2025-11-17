@@ -53,7 +53,7 @@
                 <div class="sm:flex-1 p-3 bg-dark-secondary rounded-lg flex flex-col">
                     <h4 class="text-light-primary tracking-wide font-bold mb-2">Thought?</h4>
                     <p class="text-light-secondary mb-2">
-                        MangaRider is a web application that allows users to read manga online. It is created using Laravel, Vue and TailwindCSS. It consumes data from Jikan API.
+                        A simple blog application where users can share their thoughts and engage in discussions through posts and comments. 
                     </p>
                     <div class="flex items-center gap-1 flex-wrap mb-4">
                         <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Laravel</span>
@@ -76,12 +76,12 @@
                 <div class="sm:flex-1 p-3 bg-dark-secondary rounded-lg flex flex-col mt-3 sm:mt-0">
                     <h4 class="text-light-primary tracking-wide font-bold mb-2">ShopOne</h4>
                     <p class="text-light-secondary mb-2">
-                      Radish. is a web application that allows users to browse and share recipes. It is created using Laravel, Vue and TailwindCSS.
+                      A simple e-commerce web application where admins can manage products and orders, while users can browse, search, add items to their cart, and complete purchases
                     </p>
                     <div class="flex items-center gap-1 flex-wrap mb-4">
                         <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Laravel</span>
                         <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Vue</span>
-                        <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Tailwind</span>
+                        <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Bootstrap</span>
                     </div>
                     <div class="flex justify-end mt-auto">
                         <a 
