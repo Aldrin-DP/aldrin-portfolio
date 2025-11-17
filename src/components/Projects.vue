@@ -57,9 +57,7 @@
                     </p>
                     <div class="flex items-center gap-1 flex-wrap mb-4">
                         <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Laravel</span>
-                        <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Vue</span>
-                        <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Tailwind</span>
-                        <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">API</span>
+                        <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">MySQL</span>
                     </div>
                     <div class="flex justify-end mt-auto">
                         <a 
@@ -80,8 +78,8 @@
                     </p>
                     <div class="flex items-center gap-1 flex-wrap mb-4">
                         <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Laravel</span>
-                        <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Vue</span>
                         <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Bootstrap</span>
+                        <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">MySQL</span>
                     </div>
                     <div class="flex justify-end mt-auto">
                         <a 
