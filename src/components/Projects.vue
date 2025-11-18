@@ -6,7 +6,7 @@
                 <div class="sm:flex-1 p-3 bg-dark-secondary rounded-lg flex flex-col">
                     <h4 class="text-light-primary tracking-wide font-bold mb-2">MangaRider</h4>
                     <p class="text-light-secondary mb-2">
-                        MangaRider is a web application that allows users to read manga online. It is created using Laravel, Vue and TailwindCSS. It consumes data from Jikan API.
+                        MangaRider is a web application that allows users to browse and search manga online. It is created using Laravel, Vue and TailwindCSS. It consumes data from Jikan API.
                     </p>
                     <div class="flex items-center gap-1 flex-wrap mb-4">
                         <span class="border border-gray-700 rounded px-2 py-[2px] text-xs text-light-secondary">Laravel</span>
