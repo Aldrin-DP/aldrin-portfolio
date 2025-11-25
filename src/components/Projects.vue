@@ -4,7 +4,18 @@
             <h4 class="text-light-primary font-bold text-xl s tracking-wide">Projects</h4>
             <div class="sm:flex sm:gap-4 mt-3 items-stretch">
                 <div class="sm:flex-1 p-3 bg-dark-secondary rounded-lg flex flex-col">
-                    <h4 class="text-light-primary tracking-wide font-bold mb-2">MangaRider</h4>
+                    <div class="flex items-center justify-between">
+                        <h4 class="text-light-primary tracking-wide font-bold mb-2">MangaRider</h4>
+                        <a 
+                            :href="paths.mangarider"
+                            target="_blank"    
+                        >
+                            <font-awesome-icon 
+                                :icon="['fas', 'arrow-right-long']" 
+                                class="text-light-secondary mb-3 cursor-pointer hover:text-white"
+                            />
+                        </a>
+                    </div>
                     <p class="text-light-secondary mb-2">
                         MangaRider is a web application that allows users to browse and search manga online. It is created using Laravel, Vue and TailwindCSS. It consumes data from Jikan API.
                     </p>
@@ -107,7 +118,15 @@ export default {
                 radish: 'https://github.com/Aldrin-DP/radish.',
                 thought: 'https://github.com/Aldrin-DP/thought',
                 shopone: 'https://github.com/Aldrin-DP/shopone'
+            },
+            paths: {
+                mangarider: 'https://mangarider.onrender.com/'
             }
+        }
+    },
+    methods: {
+        showLiveDemo() {
+            window.open(this.path, '_blank');
         }
     }
 }
