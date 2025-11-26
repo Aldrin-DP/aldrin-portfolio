@@ -1,8 +1,8 @@
 <template>
     <footer>
-        <div class="text-light-secondary p-5 flex justify-between">
+        <div class="text-light-secondary p-5 flex justify-center sm:justify-between">
             &copy; Aldrin Pelayo 2025 
-            <div class="flex gap-2">
+            <div class="hidden gap-2 sm:flex">
                 <a 
                     href="https://github.com/Aldrin-DP"
                     target="_blank"
