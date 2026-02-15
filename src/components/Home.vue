@@ -24,6 +24,7 @@
                     <img src="/images/profile.jpg" alt="" class="rounded-xl h-[300px] sm:h-[400px]">
                 </div>
             </div> -->
+            
         </div>
     </section>
 </template>
